@@ -47,6 +47,7 @@ build.sh
 /Module.markers
 /Module.symvers
 /zip
+/out
 
 #
 # Debian directory (make deb-pkg)
